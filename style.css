@@ -1,0 +1,16 @@
+body {
+  font-family: system-ui;
+  background: white;
+  color: black;
+  text-align: center;
+}
+/* ボタン本体 */
+.btn {
+  display: inline-block;
+  padding: 0.8em 3em;
+  background-color: black; /* 背景色 */
+  border-radius: 60px;
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none; /* 文字の下線を消す */
+}
